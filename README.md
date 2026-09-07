@@ -10,89 +10,61 @@
 </p>
 
 <p align="center">
-  <a href="#english">English</a> · <a href="#türkçe">Türkçe</a> · <a href="#app-store-previews">App Store Previews</a>
+  <img alt="Platform" src="https://img.shields.io/badge/Platform-iPhone-111111?logo=apple&logoColor=white">
+  <img alt="Learning" src="https://img.shields.io/badge/Experience-Guided%20Learning-CB7B73">
+  <img alt="Languages" src="https://img.shields.io/badge/Languages-13-7A5C58">
+  <img alt="Status" src="https://img.shields.io/badge/Status-Active-5B8C6A">
 </p>
 
-## English
+## Product at a glance
 
-MiraKnit is a premium knitting learning studio that brings lessons, modern patterns, progress tracking, and a personal project archive together in one focused experience.
+| | |
+| --- | --- |
+| **Purpose** | Turn knitting practice into a clear learn–make–archive journey. |
+| **Audience** | Beginners building confidence and experienced makers organizing projects. |
+| **Core experience** | Short lessons, realistic patterns, progress tracking and a personal studio. |
+| **Design direction** | Calm hierarchy, focused steps and visual previews that reduce cognitive load. |
 
-It is designed for people who want more guidance than a simple row counter: start with the fundamentals, build confidence through short lessons, choose a project with realistic previews, and save the finished piece with photos and notes.
-
-### What you can do
-
-- Learn knitting through short, step-by-step technique lessons
-- Follow a clear path from beginner skills to advanced techniques
-- Explore a modern pattern library with realistic project previews
-- Find the materials, tools, and lesson sequence for each pattern
-- Save finished work with photos, yarn details, and personal notes
-- Build a lasting personal archive of handmade projects
-- Use the app in 13 supported languages
-
-### The MiraKnit flow
+## The MiraKnit flow
 
 1. **Learn** — practise a technique with a short, focused lesson.
-2. **Choose** — discover a modern pattern that matches your level.
-3. **Make** — follow the project one step at a time.
-4. **Keep** — save the finished work and the story behind it.
+2. **Choose** — discover a modern pattern matched to your level.
+3. **Make** — follow materials and project steps without losing context.
+4. **Keep** — save the finished work with photos, yarn details and notes.
 
-## App Store Previews
+## Highlights
 
-### English
+- Progressive technique lessons from beginner to advanced
+- Modern pattern library with realistic project previews
+- Materials, tools and prerequisite lessons for each pattern
+- Progress tracking across active projects
+- A lasting archive of finished handmade work
+- MiraKnit Pro collections and advanced lessons
+- 13 supported languages
+
+## App Store previews
 
 <p align="center">
-  <img src="assets/app-store/en/01-hero.png" width="19%" alt="MiraKnit home and learning path">
+  <img src="assets/app-store/en/01-hero.png" width="19%" alt="MiraKnit learning path">
   <img src="assets/app-store/en/02-techniques.png" width="19%" alt="MiraKnit technique lessons">
   <img src="assets/app-store/en/03-patterns.png" width="19%" alt="MiraKnit pattern library">
-  <img src="assets/app-store/en/04-studio.png" width="19%" alt="MiraKnit finished work studio">
+  <img src="assets/app-store/en/04-studio.png" width="19%" alt="MiraKnit project studio">
   <img src="assets/app-store/en/05-pro.png" width="19%" alt="MiraKnit Pro collection">
 </p>
 
 <details>
-  <summary><strong>View the full English preview sheet</strong></summary>
-  <br>
-  <img src="assets/app-store/en/contact-sheet.png" alt="Complete MiraKnit English App Store preview set">
-</details>
-
-### Türkçe
-
-<p align="center">
-  <img src="assets/app-store/tr/01-hero.png" width="19%" alt="Mira Örgü ana ekranı ve öğrenme yolu">
-  <img src="assets/app-store/tr/02-techniques.png" width="19%" alt="Mira Örgü teknik dersleri">
-  <img src="assets/app-store/tr/03-patterns.png" width="19%" alt="Mira Örgü model kütüphanesi">
-  <img src="assets/app-store/tr/04-studio.png" width="19%" alt="Mira Örgü bitmiş işler stüdyosu">
-  <img src="assets/app-store/tr/05-pro.png" width="19%" alt="Mira Örgü Pro koleksiyonu">
-</p>
-
-<details>
-  <summary><strong>Türkçe görsel setinin tamamını görüntüle</strong></summary>
+  <summary><strong>Türkçe App Store görselleri</strong></summary>
   <br>
   <img src="assets/app-store/tr/contact-sheet.png" alt="Mira Örgü Türkçe App Store görsel seti">
 </details>
 
 ## Türkçe
 
-Mira Örgü; kısa dersleri, modern modelleri, ilerleme takibini ve bitmiş işler arşivini tek bir sakin deneyimde birleştiren premium bir örgü öğrenme stüdyosudur.
+Mira Örgü; kısa dersleri, modern modelleri, ilerleme takibini ve tamamlanan işler arşivini tek bir sakin deneyimde birleştirir. Kullanıcı temel tekniklerden başlayabilir, seviyesine uygun projeyi seçebilir ve bitirdiği parçaları fotoğraf ve notlarla saklayabilir.
 
-Basit bir sıra sayacından daha fazlasını isteyenler için tasarlandı: temel teknikleri öğren, seviyene uygun bir model seç, adım adım ilerle ve tamamladığın işleri fotoğraf ve notlarla sakla.
-
-### Öne çıkanlar
-
-- Kısa ve adım adım örgü tekniği dersleri
-- Başlangıçtan ileri seviyeye düzenli öğrenme yolu
-- Gerçeğe yakın önizlemelere sahip modern model kütüphanesi
-- Her model için malzeme, araç ve ders bilgileri
-- Fotoğraf, iplik bilgisi ve notlarla bitmiş iş arşivi
-- 13 dil desteği
-- İleri dersler ve özel koleksiyonlar için MiraKnit Pro
-
-## About this repository
-
-This is MiraKnit's public product showcase. It contains product information and promotional visuals only; the production source code and private configuration are maintained separately.
-
-MiraKnit and its original visual assets are © 2026 MiraKnit. All rights reserved.
-
-### Legal
+## Legal
 
 - [Privacy Policy](https://sites.google.com/view/miraknit-legal/privacy-policy)
 - [Terms of Use](https://sites.google.com/view/miraknit-legal/terms-of-use)
+
+© 2026 MiraKnit. All rights reserved.
