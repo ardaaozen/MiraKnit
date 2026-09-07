@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/brand/app-icon.png" width="132" alt="MiraKnit app icon">
-</p>
+![MiraKnit](assets/miraknit-hero.png)
 
 <h1 align="center">MiraKnit</h1>
 
