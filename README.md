@@ -16,12 +16,6 @@
   <img alt="Status" src="https://img.shields.io/badge/Status-Live%20on%20the%20App%20Store-5B8C6A">
 </p>
 
-<p align="center">
-  <a href="https://apps.apple.com/app/id6793510512">
-    <img alt="Download MiraKnit on the App Store" src="https://img.shields.io/badge/App%20Store-Download-0D96F6?logo=appstore&logoColor=white">
-  </a>
-</p>
-
 ## Available now
 
 MiraKnit **1.0.2** is live on the App Store with support for 13 languages. [Download MiraKnit on the App Store →](https://apps.apple.com/app/id6793510512)
