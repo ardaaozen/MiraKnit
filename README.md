@@ -1,4 +1,6 @@
-![MiraKnit](assets/miraknit-hero.png)
+![MiraKnit](assets/premium-cover.svg)
+
+<p align="center"><a href="https://apps.apple.com/app/id6793510512"><img src="https://raw.githubusercontent.com/ardaaozen/ardaaozen/01c1593/assets/badges/app-store-tr.png" alt="App Store'dan indir" height="54"></a></p>
 
 <h1 align="center">MiraKnit</h1>
 
